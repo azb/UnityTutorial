@@ -101,6 +101,6 @@ AddPage(`Great, now our xwing is colorful! Now what if we want to see what it wi
 
 AddPage(`Now that our game camera is setup, let's see what the game will look like.<br>To play the game, press the play button <img src="playButton.png"> at the top center of the editor.`,"Step 10 Playing the game.mp4");
 
-AddPage(`Great, now we know how to run the game and test it in the Unity editor. It's not very fun though, because you can't do anything yet. To fix this, let's start programming some player controls!`,"");
+AddPage(`Great, now we know how to run the game and test it in the Unity editor. It's not very fun though, because you can't do anything yet. To fix this, let's start programming some player controls!`,"Step 11 create controls script.mp4");
 
 AddPage(`Congratulations! You've reached the last page of the tutorial app.<br><br><img src="construction.jpg" height="300"><br><br> This tutorial app is still under construction, so if you wish to continue it, for now you can continue from where you left off from the PDF, which you can <a href="Unity Tutorial.pdf">download here</a>.`,"");
