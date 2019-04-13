@@ -32,9 +32,11 @@ Specifically, you will learn how to:
   <li>Add a background to your game scene.</li>
   <li>Export your game as an executable so that you can share it with other players or publish it online!</li>
 </ul>
+<br>
+The final game project will look something like this:
 `
 ,
-''
+'Step 0 Final Game Preview.mp4'
 )
 
 let unityDownloadLink = 'https://unity3d.com/get-unity/download?thank-you=update&download_nid=57864&os=Win';//'https://unity3d.com/get-unity/download/archive';
