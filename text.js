@@ -99,3 +99,8 @@ So now we have an xwing, however it is not very colorful. Let's add some colors 
 
 AddPage(`Great, now our xwing is colorful! Now what if we want to see what it will look like in game? First, we will have to setup our game camera to be in the correct position, as well as put our xwing in a good starting position in the game world. Let's move our camera to position (0,50,0) and rotation (90,0,0) and our xwing to position (0,0,-20) and rotation (0,180,0).`,"Step9 positioning camera and xwing v2.mp4");
 
+AddPage(`Now that our game camera is setup, let's see what the game will look like.<br>To play the game, press the play button <img src="playButton.png"> at the top center of the editor.`,"Step 10 Playing the game.mp4");
+
+AddPage(`Great, now we know how to run the game and test it in the Unity editor. It's not very fun though, because you can't do anything yet. To fix this, let's start programming some player controls!`,"");
+
+AddPage(`Congratulations! You've reached the last page of the tutorial app.<br><br><img src="construction.jpg" height="300"><br><br> This tutorial app is still under construction, so if you wish to continue it, for now you can continue from where you left off from the PDF, which you can <a href="Unity Tutorial.pdf">download here</a>.`,"");
