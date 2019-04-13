@@ -1,7 +1,7 @@
 
 let lastPage = instructions.length;
 
-let page = lastPage;
+let page = 0;
 
 let newStr = ``;
 
